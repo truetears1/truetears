@@ -6,3 +6,5 @@
 
 哔哩哔哩  http://t.cn/Ai9bD4oB
 （该版本联通手机卡免流量）
+
+手机版ps适配高版本手机 http://t.cn/Ai9bkPur
