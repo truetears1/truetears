@@ -1,4 +1,4 @@
-# 好软分享
+![](https://github.com/truetears1/truetears/blob/master/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png)
 ### 提示：常年使用经验分享，不喜误喷，点击应用名进入下载
 1：[歌词适配](http://t.cn/AiKYNuL7)
 （软件名假的 作者可能为了防止被封）
