@@ -1,7 +1,11 @@
 ![](https://github.com/truetears1/truetears/blob/master/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png)
 ### 提示：常年使用经验分享，不喜误喷，点击应用名进入下载
+
+0:[闪电下载](https://www.lanzous.com/i4foc7c)
+（目前最好用的下载神器(可以在线观看)，什么迅雷啊，都是弟弟）
+
 1：[歌词适配](http://t.cn/AiKYNuL7)
-（软件名假的 作者可能为了防止被封）
+（软件名假的 作者可能为了防止被封(主要用来下载付费歌曲)）
 
 2：[坏坏猫](http://t.cn/Ai9b8Vec)
 （看漫画小说必备，全网搜，过滤广告）
