@@ -41,6 +41,9 @@
 9：[搜图神奇](https://www.lanzous.com/i4f6gef)
 （上面的图片贼好看 会员激活码:178320）
 
+* [百度云Android版](https://www.lanzous.com/i4gkate)
+（自带vip随缘限速）
+
 ## 进入群聊
 
 q群：710369379
