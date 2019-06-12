@@ -31,8 +31,12 @@
 * [搜图神奇](https://www.lanzous.com/i4f6gef)
 （上面的图片贼好看 会员激活码:178320）
 
+* [GIWIFI承包你四年的wifi](http://wifi.huixia.cc)
+[(查看使用方法)](http://wifi.huixia.cc/app/book_main.html)
+
 * [百度云Android版](https://www.lanzous.com/i4gkate)
 （自带vip  随缘限速）<br>
+
    <pre>
      {\__/}
     ( • - •)
