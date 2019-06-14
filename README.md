@@ -9,7 +9,7 @@
 [哔哩哔哩](http://t.cn/Ai9bD4oB) | 该版本联通手机卡免流量 | Github
 [手机版ps](http://t.cn/Ai9bkPur) | 适配高版本手机 | 即
 [网易云音乐联想版](https://www.lanzous.com/i4d2ush) | 该有的功能都有，就是没广告，没有胡里花哨🌸 | 可
-[手机版pandownload](https://www.lanzous.com/i4d209i) | 非常厉害的百度云下载，用的多了发现还是它稳 | ![GitHub stars](https://img.shields.io/github/stars/truetears1/truetears.svg)
+[手机版pandownload](https://www.lanzous.com/i4d209i) | 非常厉害的百度云下载，用的多了发现还是它稳 | 
 [auto.js](https://www.lanzous.com/i4d1yyb) | 放开双手，运行脚本的
 [能量]() | 蚂蚁森林自动收能量，配合auto.js使用
 [搜图神奇](https://www.lanzous.com/i4f6gef) | 上面的图片贼好看 会员激活码:178320
