@@ -1,5 +1,5 @@
 ![](https://github.com/truetears1/truetears/blob/master/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png)
-### 提示：常年使用经验分享，不喜误喷，点击应用名进入下载![GitHub stars](https://img.shields.io/github/stars/truetears1/truetears.svg)
+### 提示：常年使用经验分享，不喜误喷，点击应用名进入下载  &nbsp; ![GitHub stars](https://img.shields.io/github/stars/truetears1/truetears.svg)
 
 软件名 | 简述 | 收藏 
 ---- | ----- | ---
@@ -23,3 +23,4 @@
 
 
 
+&
