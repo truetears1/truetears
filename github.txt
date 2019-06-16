@@ -1,0 +1,24 @@
+1.设置用户名
+ git config --global  user.name 'truetears1'
+
+2.设置邮箱
+ git config --global  user.email '2845886397@qq.com'
+
+3.查看设置
+git config --list
+
+4.创建git
+git init
+
+5. 查看当前情况
+git status
+
+6.转给暂存区
+git add
+
+7.转到仓库
+git commit -m ' 描述'
+
+8.把东西下载到本地
+git clone
+
