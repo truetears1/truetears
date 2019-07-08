@@ -26,7 +26,7 @@
 [网易云音乐联想版](https://www.lanzous.com/i4d2ush) | 该有的功能都有，就是没广告，没有胡里花哨🌸 | 
 [手机版pandownload](https://www.lanzous.com/i4d209i) | 非常厉害的百度云下载，用的多了发现还是它稳 | 
 [auto.js](https://www.lanzous.com/i4d1yyb) | 放开双手，运行脚本的
-[能量]() | 蚂蚁森林自动收能量，配合auto.js使用
+[能量](http://t.cn/AiOKTi7d) | 蚂蚁森林自动收能量，配合auto.js使用
 [搜图神奇](https://www.lanzous.com/i4f6gef) | 上面的图片贼好看 会员激活码:178320
 [GIWIFI承包你四年的wifi](http://wifi.huixia.cc) | [(查看使用方法)](http://wifi.huixia.cc/app/book_main.html)
 [百度云Android版](https://www.lanzous.com/i4gkate) | 自带vip  随缘限速
