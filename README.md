@@ -39,9 +39,9 @@
 
 软件名 | 简述 | 使用方法 
 ---- | ---- | ---- 
-[ Snipaste截图](https://www.lanzous.com/i4qepmb) | 吹爆的截图应用，可以把截的图悬浮，便于对照 | 解压即用
-[ Translucent任务栏透明磨砂]() | 可以让任务栏透明化 | 
-[ BANDIZIP-SETUP压缩应用]() | 非常好用的压缩软件 | 下载即用
+[ Snipaste截图](https://www.lanzous.com/i4q3w9e) | 吹爆的截图应用，可以把截的图悬浮，便于对照 | 解压即用
+[ Translucent任务栏透明磨砂](https://www.lanzous.com/i4ot44f) | 可以让任务栏透明化 | 
+[ BANDIZIP-SETUP压缩应用](https://www.lanzous.com/i4iqbuj) | 非常好用的压缩软件 | 下载即用
 <h3 id="4">ios版</h3>
 <p>经济原因没做收录</p>
 <h3 id="3">网址推荐</h3>
