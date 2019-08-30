@@ -2,7 +2,8 @@
 ### 提示：常年使用经验分享，不喜误喷，点击应用名进入下载  &nbsp; ![GitHub stars](https://img.shields.io/github/stars/truetears1/truetears.svg)
 * [android版](#1)
 * [windows版](#2)
-* [网站推荐](#3)
+* [ios版](#4)
+* [网址推荐](#3)
 <h3 id="1">android版</h3>
 
 软件名 | 简述 
@@ -36,7 +37,19 @@
 [百度云Android版](https://www.lanzous.com/i4gkate) | 自带vip  随缘限速
 <h3 id="2">windows版</h3>
 
+软件名 | 简述 | 使用方法 
+---- | ---- | ---- 
+[ Snipaste截图](https://www.lanzous.com/i4qepmb) | 吹爆的截图应用，可以把截的图悬浮，便于对照 | 解压即用
+[ Translucent任务栏透明磨砂]() | 可以让任务栏透明化 | 
+[ BANDIZIP-SETUP压缩应用]() | 非常好用的压缩软件 | 下载即用
+<h3 id="4">ios版</h3>
+<p>经济原因没做收录</p>
 <h3 id="3">网址推荐</h3>
+
+网址名 | 网址 | 概述
+---- | ---- | ----
+[菜鸟网](https://www.runoob.com/) | https://www.runoob.com/ | 学习各种编程语言用
+
 
 ### 说明
 如有侵权请告知，即删
