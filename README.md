@@ -1,6 +1,7 @@
 ## 强大软件集合
 ### 提示：常年使用经验分享，不喜误喷，点击应用名进入下载  &nbsp; ![GitHub stars](https://img.shields.io/github/stars/truetears1/truetears.svg)
 * [android版](#1)
+   * [小米内置应用](https://www.lanzous.com/b838135?from=groupmessage)
 * [windows版](#2)
 * [ios版](#4)
 * [网址推荐](#3)
@@ -49,7 +50,9 @@
 网址名 | 网址 | 概述
 ---- | ---- | ----
 [菜鸟网](https://www.runoob.com/) | https://www.runoob.com/ | 学习各种编程语言用
-
-
+[爱给网](http://www.aigei.com/) | http://www.aigei.com/ | 各种材料的素材
+[java教程网](http://how2j.cn/?p=56919) | http://how2j.cn/?p=56919 | java教程
+[w3school教程网](https://www.w3school.com.cn/js/index.asp) | https://www.w3school.com.cn/js/index.asp   | web各种教程
+[各大公司面试题]()
 ### 说明
 如有侵权请告知，即删
