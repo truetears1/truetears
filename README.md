@@ -1,7 +1,12 @@
 ## 强大软件集合
 ### 提示：常年使用经验分享，不喜误喷，点击应用名进入下载  &nbsp; ![GitHub stars](https://img.shields.io/github/stars/truetears1/truetears.svg)
+* [android版](#1)
+* [windows版](#2)
+* [网站推荐](#3)
+<h3 id="1">android版</h3>
+
 软件名 | 简述 
----- | ----- 
+---- | ---- 
 [devcheck](https://www.lanzous.com/i4goibi) | 悬浮显示系统参数 |
 [百度输入法皮肤](https://www.lanzous.com/i4goblg) | 非常好看的皮肤，也不花哨|
 [调色板](https://www.lanzous.com/i4d1yah) | rgb取色 |
@@ -29,6 +34,9 @@
 [搜图神奇](https://www.lanzous.com/i4f6gef) | 上面的图片贼好看 会员激活码:178320
 [GIWIFI承包你四年的wifi](http://wifi.huixia.cc) | [(查看使用方法)](http://wifi.huixia.cc/app/book_main.html)
 [百度云Android版](https://www.lanzous.com/i4gkate) | 自带vip  随缘限速
+<h3 id="2">windows版</h3>
+
+<h3 id="3">网址推荐</h3>
 
 ### 说明
 如有侵权请告知，即删
