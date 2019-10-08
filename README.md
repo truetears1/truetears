@@ -4,7 +4,7 @@
    * [小米内置应用](https://www.lanzous.com/b838135?from=groupmessage)
    * [xp框架](https://www.lanzous.com/b753499)
    * [最新破解软件](https://www.ghpym.com/category/all/android)
-   * [网课(智慧树、知道)]( https://www.lanzous.com/b0ep76hhc)
+   * [网课(智慧树、知道、超星尔雅)]( https://www.lanzous.com/b0ep76hhc)
 * [windows版](#2)
 * [ios版](#4)
 * [网址推荐](#3)
