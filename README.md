@@ -1,6 +1,6 @@
 ## 强大软件集合
 ### 提示：常年使用经验分享，不喜误喷，点击应用名进入下载  &nbsp; ![GitHub stars](https://img.shields.io/github/stars/truetears1/truetears.svg)
-* [android版](#1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[加入群聊](https://jq.qq.com/?_wv=1027&k=5KGHW82)
+* [android版](#1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[加入群聊](https://jq.qq.com/?_wv=1027&k=5KGHW82)
    * [小米内置应用](https://www.lanzous.com/b838135?from=groupmessage)
    * [xp框架](https://www.lanzous.com/b753499)
    * [最新破解软件](https://www.ghpym.com/category/all/android)
